@@ -10,7 +10,4 @@ bbb
 ccc
 ddd
 
-new
-
-----------------
-000000
+for new feature
